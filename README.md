@@ -1,1 +1,1 @@
-# Sime-VAE
+# Semi-VAE
